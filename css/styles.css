@@ -2,7 +2,7 @@
   --color-primary: #ff0000;
   --color-secondary: #00d9ff;
   --color-accent: #ff3400;
-  --color-headings: #1b0760;
+  --color-headings: #232323;
   --color-body: #918ca4;
   --color-body-darker: #5c5577;
   --color-border: #ff0000;
@@ -24,8 +24,7 @@
 
 html {
   /* 62.5% of 16px = 10px */
-  font-size: 62.5%;
-  
+  font-size: 62.5%; 
 }
 
 body {
@@ -33,6 +32,7 @@ body {
   font-size: 2.4rem;
   line-height: 1.5;
   color: var(--color-body);
+  text-decoration: none;
 }
 
 h1,
@@ -542,7 +542,6 @@ a {
 /* Callouts */
 .callout {
   padding: 4rem;
-  border-radius: 5px;
 }
 
 .callout--primary {
@@ -550,8 +549,20 @@ a {
   color: #fff;
 }
 
+.callout--secondary {
+  background: #fff;
+  color: var(--color-text);
+
+}
+
 .callout__heading {
   color: #fff;
+  margin-top: 0;
+  font-size: 3rem;
+}
+
+.callout__heading--secondary {
+  color: var(--color-text);
   margin-top: 0;
   font-size: 3rem;
 }
@@ -627,7 +638,7 @@ a {
 }
 
 .block--dark {
-  background: #000;
+  background: var(--color-text);
   color: #7b858b;
 }
 
@@ -669,16 +680,16 @@ a {
 
 .nav__item {
   padding: 0.5rem 2rem;
-  border-bottom: 1px solid #222;
+  border-bottom: 2px solid var(--color-primary);
 }
 
 .nav__item > a {
-  color: #404040;
+  color: var(--color-text);
   transition: color 0.3s;
 }
 
 .nav__item > a:hover {
-  color: #fff;
+  color: var(--color-primary);
 }
 
 .nav__toggler {
@@ -716,7 +727,6 @@ a {
 }
 
 /* Hero */
-
 .hero__tagline {
   font-size: 2rem;
   color: #b9c3cf;
@@ -842,16 +852,16 @@ a {
 .footer__heading {
   text-transform: uppercase;
   font-weight: 600;
+  font-size: 2.5rem;
+  line-height: 1.5;
 }
 
 .footer__brand {
   margin-top: 5rem;
-  margin-right: 5rem;
   text-align: center;
 }
 
 .footer__brand img {
-  width: 100%;
   max-width: 230px;
 }
 
