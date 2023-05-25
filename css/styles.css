@@ -230,12 +230,13 @@ a {
 }
 
 .btn--secondary {
-  background: var(--color-secondary);
-  color: #fff;
+  background: #fff;
+  color: #232323;
 }
 
 .btn--secondary:hover {
-  background: #05cdf0;
+  background: var(--color-primary);
+  color: #fff;
 }
 
 .btn--accent {
@@ -509,6 +510,8 @@ background-image: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
 @media screen and (min-width: 768px) {
   .grid--1x2 {
     grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    justify-content: center;
   }
 }
 
@@ -594,6 +597,11 @@ background-image: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
 @media screen and (min-width: 768px) {
   .callout .grid--1x2 {
     grid-template-columns: 1fr auto;
+  }
+
+  .callout--primary {
+    margin: 0% 22.8% 2.5% 22.8%;
+  
   }
 
   .callout__content {
