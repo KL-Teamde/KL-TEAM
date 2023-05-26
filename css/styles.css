@@ -350,12 +350,12 @@ a {
 }
 
 .card__body--secondary {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(..images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
   background-size: cover;
 }
 
 .card__body--tertiary {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png");
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
   background-size: cover;
 }
 
@@ -381,12 +381,12 @@ a {
   }
   
   .card__body--secondary:hover {
-    background: url(..images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+    background: url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
     background-size: cover;
   }
   
   .card__body--tertiary:hover {
-    background: url("../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png");
+    background: url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
     background-size: cover;
   }
 }
