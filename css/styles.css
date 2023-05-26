@@ -330,7 +330,6 @@ a {
 
 .card__body {
   height: 40rem;
-  opacity: .5;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
@@ -345,17 +344,19 @@ a {
   padding: 2rem 3rem;
   }
 
-
 .card__body--primary {
-background-image: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background-size: cover;
 }
 
 .card__body--secondary {
-  background-image: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background-size: cover;
 }
 
 .card__body--tertiary {
-  background-image: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background-size: cover;
 }
 
 .card--primary .card__header {
@@ -368,8 +369,16 @@ background-image: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
   color: #fff;
 }
 
+
+@media screen and (min-width: 1024px) {
+  .input {
+    font-size: 1.5rem;
+  }
+
+
 .card__body:hover {
-  opacity: 1;
+    opacity: 1;
+}
 }
 
 /* Plans */
@@ -604,7 +613,6 @@ background-image: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
 
 .callout__content {
   text-align: center;
-  padding-right: 8rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -618,6 +626,7 @@ background-image: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
 
   .callout__content {
     text-align: left;
+    padding-right: 8rem;
   }
 
   .callout .btn {
