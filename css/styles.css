@@ -341,21 +341,21 @@ a {
 
 .card__header,
 .card__body {
-  padding: 2rem 3rem;
+  padding: 1.5rem 3rem;
   }
 
 .card__body--primary {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
   background-size: cover;
 }
 
 .card__body--secondary {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
   background-size: cover;
 }
 
 .card__body--tertiary {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png");
   background-size: cover;
 }
 
@@ -376,17 +376,17 @@ a {
   }
 
   .card__body--primary:hover {
-    background: url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+    background: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
     background-size: cover;
   }
   
   .card__body--secondary:hover {
-    background: url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+    background: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
     background-size: cover;
   }
   
   .card__body--tertiary:hover {
-    background: url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+    background: url(/images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
     background-size: cover;
   }
 }
@@ -678,7 +678,7 @@ a {
 }
 /* Blocks */
 .block {
-  --padding-vertical: 6rem;
+  --padding-vertical: 4rem;
   padding: var(--padding-vertical) 2rem;
 }
 
@@ -967,6 +967,14 @@ a {
 
 .landing__header {
   display: flex;
-  align-content: center;
   justify-content: center;
+  scale: 1.2;
+}
+
+@media screen and (min-width: 768px) {
+  .landing__header {
+    scale: 1.45;
+    padding-top: 2rem;
+    padding-left: 2.5rem
+  }
 }
