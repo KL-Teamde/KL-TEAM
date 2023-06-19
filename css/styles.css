@@ -907,7 +907,7 @@ a {
 .footer__heading {
   text-transform: uppercase;
   font-weight: 600;
-  font-size: 2.5rem;
+  font-size: 2rem;
   line-height: 1.5;
 }
 
@@ -1004,4 +1004,19 @@ a {
   .video__container {
   padding-bottom: 20%;
   }
+}
+
+/* Header */
+
+.header__brand {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.header__brand img {
+  max-width: 230px;
+}
+
+.header__brand {
+  order: -1;
 }
