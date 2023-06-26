@@ -23,7 +23,6 @@
 }
 
 html {
-  /* 62.5% of 16px = 10px */
   font-size: 62.5%; 
 }
 
@@ -44,11 +43,11 @@ h3 {
 }
 
 h1 {
-  font-size: 7rem;
+  font-size: 3.6rem;
 }
 
 h2 {
-  font-size: 4rem;
+  font-size: 3.6rem;
 }
 
 h3 {
@@ -631,7 +630,7 @@ a {
   }
 
   .callout--primary {
-    margin: 0% 22.8% 2.5% 22.8%;
+    margin: 0% 21.3% 2.5% 21.3%;
   }
 
   .callout__content {
@@ -642,6 +641,12 @@ a {
   .callout .btn {
     justify-self: start;
     margin: 0 2rem;
+  }
+}
+
+@media screen and (min-width: 1925px) {
+  .callout--primary {
+    margin: 0% 23% 2.5% 23%;
   }
 }
 
@@ -694,6 +699,7 @@ a {
 .block--dark {
   background: var(--color-text);
   color: #7b858b;
+  margin-bottom: 10rem;
 }
 
 .block--dark h1,
@@ -716,6 +722,7 @@ a {
   max-width: 1140px;
   margin: 0 auto;
 }
+
 
 /* Navigation Bar */
 .nav {
@@ -792,6 +799,7 @@ a {
   width: 100%;
 }
 
+
 @media screen and (min-width: 768px) {
   .hero {
     padding-top: 0;
@@ -855,11 +863,22 @@ a {
   width: 100%;
 }
 
+.feature__content {
+  text-align: center;
+}
+
 @media screen and (min-width: 768px) {
   .feature:nth-of-type(even) .feature__content {
     order: 2;
   }
+
+  .feature__content {
+    text-align: left;
+    margin-left: 1vh;
+    margin-right: 1vh;
+  }
 }
+
 
 /* Showcase Block */
 .block-showcase__image > img {
@@ -884,6 +903,8 @@ a {
 .footer {
   background: #232323;
   justify-content: space-between;
+  position: absolute;
+  width: 100%;
 }
 
 .footer a {
