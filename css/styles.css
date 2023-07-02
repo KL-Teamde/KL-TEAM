@@ -335,14 +335,26 @@ a {
 }
 
 .card__header {
-  height: 8rem;
+  height: 7rem;
 }
+
 
 .card__header,
 .card__body {
   padding: 1.5rem 3rem;
   text-align: center;
-  }
+ }
+
+.card__header--misc {
+  height: 10rem;
+}
+  
+  
+.card__header--misc,
+.card__body--misc {
+  padding: 1.5rem 3rem;
+  text-align: center;
+}
 
 .card__body--primary {
   background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
@@ -360,6 +372,11 @@ a {
 }
 
 .card--primary .card__header {
+  background: var(--color-primary);
+  color: #fff;
+}
+
+.card--primary .card__header--misc {
   background: var(--color-primary);
   color: #fff;
 }
@@ -398,7 +415,7 @@ a {
 
 
 .plan__name {
-  color: #fff;
+  color: #ffff;
   margin: 0;
   font-weight: 500;
   font-size: 2.4rem;
