@@ -914,7 +914,7 @@ a {
 }
 
 .footer a:hover {
-  color: #fff;
+  color: var(--color-primary);
 }
 
 .footer__section {
