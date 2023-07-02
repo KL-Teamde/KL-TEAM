@@ -342,7 +342,8 @@ a {
 .card__header,
 .card__body {
   padding: 1.5rem 3rem;
-  text-align: center;
+  text-align: left;
+  justify-content: center;
  }
 
 .card__header--misc {
