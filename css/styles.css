@@ -1014,7 +1014,8 @@ a {
   .landing__header {
     scale: 1.45;
     padding-top: 2rem;
-    padding-left: 2.5rem
+    padding-left: 36.1%;
+    max-width: 100vh;
   }
 }
 
