@@ -870,6 +870,10 @@ a {
   margin: 12rem 0;
 }
 
+.feature__image {
+  max-width: 500px;
+}
+
 .feature:first-of-type {
   margin-top: 6rem;
 }
