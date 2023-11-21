@@ -224,6 +224,11 @@ a {
   color: #fff;
 }
 
+.btn--soon {
+  background: var(--color-text);
+  color: #fff;
+}
+
 .btn--primary:hover {
   background: #3a8ffd;
 }
@@ -358,7 +363,7 @@ a {
 }
 
 .card__body--primary {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/Grünlandpflege.webp.webp);
   background-size: cover;
 }
 
@@ -393,10 +398,10 @@ a {
     font-size: 1.5rem;
   }
 
-  .card__body--primary:hover {
-    background: url(../images/jorgen-hendriksen-0i0kTdzLM20-unsplash.png);
+  /* .card__body--primary:hover {
+    background: url(../images/Grünlandpflege.webp);
     background-size: cover;
-  }
+  } */
   
   .card__body--secondary:hover {
     background: url(../images/Güllefass.webp);
