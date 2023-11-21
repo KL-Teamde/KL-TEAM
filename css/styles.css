@@ -399,7 +399,7 @@ a {
   }
 
   .card__body--primary:hover {
-    background: url(../images/Grünlandpflege.webp);
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/Grünlandpflege.webp.webp);
     background-size: cover;
   }
   
