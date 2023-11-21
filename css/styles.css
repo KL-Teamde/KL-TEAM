@@ -398,10 +398,10 @@ a {
     font-size: 1.5rem;
   }
 
-  /* .card__body--primary:hover {
+  .card__body--primary:hover {
     background: url(../images/Grünlandpflege.webp);
     background-size: cover;
-  } */
+  }
   
   .card__body--secondary:hover {
     background: url(../images/Güllefass.webp);
