@@ -341,6 +341,9 @@ a {
 
 .card__header {
   height: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
