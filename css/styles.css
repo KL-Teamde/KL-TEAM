@@ -346,6 +346,13 @@ a {
   align-items: center;
 }
 
+.card__header2 {
+  height: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 .card__header,
 .card__body {
