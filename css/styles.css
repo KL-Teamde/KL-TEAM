@@ -821,10 +821,6 @@ a {
     max-height: 100%;
     opacity: 1;
   }
-
-  .nav__item {
-    border: 0;
-  }
 }
 
 /* Hero */
