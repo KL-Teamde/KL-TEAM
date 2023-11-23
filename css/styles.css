@@ -392,6 +392,11 @@ a {
   color: #fff;
 }
 
+.card--primary .card__header2 {
+  background: var(--color-text);
+  color: #fff;
+}
+
 .card--primary .card__header--misc {
   background: var(--color-primary);
   color: #fff;
