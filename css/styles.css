@@ -264,8 +264,8 @@ a {
 }
 
 .btn--outline {
-  background: #fff;
-  color: #232323;
+  background: var(--color-primary);
+  color: #fff;
   border: 2px solid var(--color-primary);
 }
 
@@ -288,6 +288,12 @@ a {
 @media screen and (min-width: 1024px) {
   .btn {
     font-size: 1.5rem;
+  }
+
+  .btn--outline {
+    background: #fff;
+    color: #232323;
+    border: 2px solid var(--color-primary);
   }
 }
 
@@ -373,17 +379,19 @@ a {
 }
 
 .card__body--primary {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/Grünlandpflege.webp);
+  background: linear-gradient(rgba(35, 35, 35,.5), rgba(35, 35, 35,.5)), url(../images/Grünlandpflege.webp);
   background-size: cover;
 }
 
+ 
+ 
 .card__body--secondary {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/Güllefass.webp);
+  background: url(../images/Güllefass.webp);
   background-size: cover;
 }
 
 .card__body--tertiary {
-  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/Futterhandel.webp.webp);
+  background: url(../images/Futterhandel.webp.webp);
   background-size: cover;
 }
 
@@ -396,6 +404,7 @@ a {
   background: var(--color-text);
   color: #fff;
 }
+
 
 .card--primary .card__header--misc {
   background: var(--color-primary);
@@ -411,6 +420,22 @@ a {
 @media screen and (min-width: 1024px) {
   .input {
     font-size: 1.5rem;
+  }
+
+  .card__body--primary {
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/Grünlandpflege.webp);
+    background-size: cover;
+   }
+   
+   
+  .card__body--secondary {
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/Güllefass.webp);
+    background-size: cover;
+  }
+  
+  .card__body--tertiary {
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/Futterhandel.webp.webp);
+    background-size: cover;
   }
 
   .card__body--primary:hover {
@@ -473,18 +498,6 @@ a {
   transform: scale(0.8);
 }
 
-.plan--popular .card__header {
-  position: relative;
-}
-
-.plan--popular .card__header::before {
-  content: url(../images/popular.svg);
-  width: 40px;
-  display: inline-block;
-  position: absolute;
-  top: -6px;
-  right: 5%;
-}
 
 
 @media screen and (min-width: 1024px) {
@@ -573,7 +586,7 @@ a {
 
 /* Grids */
 .grid {
-  display: grid;
+  display: grid;  
 }
 
 @media screen and (min-width: 768px) {
@@ -785,6 +798,7 @@ a {
   border-bottom: 2px solid var(--color-primary);
 }
 
+
 .nav__item > a {
   color: var(--color-text);
   transition: color 0.3s;
@@ -822,6 +836,7 @@ a {
     max-height: 100%;
     opacity: 1;
   }
+
 }
 
 /* Hero */
@@ -1030,6 +1045,7 @@ a {
 .landing__header {
   display: flex;
   justify-content: center;
+  align-items: center;
   scale: 1.2;
 }
 
@@ -1093,32 +1109,33 @@ a {
   align-items: center;
  }
  
- .landing__header--items {
+.landing__header--items {
   padding: 20px;
   padding-bottom: 0;
   margin-bottom: -8px;
   display: flex;
 }
  
- .landing__header--item1 {
+.landing__header--item1 {
   cursor: pointer;
  }
  
- .landing__header--item2 {
+.landing__header--item2 {
   padding-right: 150px;
   padding-left: 150px;
   margin-right: 11.5rem;
  }
 
- .landing__header--item2 img {
+.landing__header--item2 img {
   max-width: 335px;
   height: auto;
  }
  
- .landing__header--item3 {
+.landing__header--item3 {
   cursor: pointer;
 
  }
+
 
  @media screen and (max-width: 768px) {
   .landing__header--item2 {
