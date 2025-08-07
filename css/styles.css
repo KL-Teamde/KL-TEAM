@@ -379,7 +379,7 @@ a {
 }
 
 .card__body--primary {
-  background: linear-gradient(rgba(35, 35, 35,.5), rgba(35, 35, 35,.5)), url(../images/Grünlandpflege.webp);
+  background: url(../images/Grünlandpflege.webp);
   background-size: cover;
 }
 
@@ -439,7 +439,7 @@ a {
   }
 
   .card__body--primary:hover {
-    background: linear-gradient(rgba(35, 35, 35,.5), rgba(35, 35, 35,.5)), url(../images/Grünlandpflege.webp);
+    background: url(../images/Grünlandpflege.webp);
     background-size: cover;
   }
   
