@@ -16,8 +16,8 @@
       <use xlink:href="/images/sprite.svg#menu"></use>
     </svg>
     <ul class="list nav__list collapsible__content">
-      <li class="nav__item"><a href="/de/pflege-und-naturschutz.html#Mulchen">Mulchen</a></li>
-      <li class="nav__item"><a href="/de/pflege-und-naturschutz.html#Torfmoose">Torfmoose</a></li>
+      <li class="nav__item"><a href="/de/pflege-und-naturschutz#Mulchen">Mulchen</a></li>
+      <li class="nav__item"><a href="/de/pflege-und-naturschutz#Torfmoose">Torfmoose</a></li>
     </ul>
   </nav>
   </header>
@@ -97,9 +97,9 @@ Wir arbeiten nicht nach dem Prinzip des billigsten Kompromisses, sondern liefern
         <picture>
           <source
             type="image/webp"
-            srcset="../images/Mulchen.webp"
+            srcset="/images/Mulchen.webp"
           />
-          <img class="feature__image" src="../images/Mulchen.webp" alt="" />
+          <img class="feature__image" src="/images/Mulchen.webp" alt="" />
         </picture>
       </div>
       </article>
@@ -129,7 +129,7 @@ Wir arbeiten nicht nach dem Prinzip des billigsten Kompromisses, sondern liefern
             type="image/webp"
             srcset="../images/Torfmoose.webp"
           />
-          <img class="feature__image" src="../images/Torfmoose.webp" alt="" />
+          <img class="feature__image" src="/images/Torfmoose.webp" alt="" />
         </picture>
       </div>
       </article>
@@ -143,13 +143,13 @@ Wir arbeiten nicht nach dem Prinzip des billigsten Kompromisses, sondern liefern
             Pflege und Naturschutz
           </h2>
           <svg class="icon icon--white collapsible__chevron">
-            <use xlink:href="../images/sprite.svg#chevron"></use>
+            <use xlink:href="/images/sprite.svg#chevron"></use>
           </svg>
         </header>
         <div class="collapsible__content">
           <ul class="list">
-            <li><a href="pflege-und-naturschutz.html#Mulchen">Mulchen</a></li>
-            <li><a href="pflege-und-naturschutz.html#Torfmoose">Torfmoose</a></li>
+            <li><a href="/de/pflege-und-naturschutz#Mulchen">Mulchen</a></li>
+            <li><a href="/de/pflege-und-naturschutz#Torfmoose">Torfmoose</a></li>
           </ul>
         </div>
       </section>
@@ -159,22 +159,22 @@ Wir arbeiten nicht nach dem Prinzip des billigsten Kompromisses, sondern liefern
             Landwirtschaftliche <br> Lohnarbeiten
           </h2>
           <svg class="icon icon--white collapsible__chevron">
-            <use xlink:href="../images/sprite.svg#chevron"></use>
+            <use xlink:href="/images/sprite.svg#chevron"></use>
           </svg>
         </header>
         <div class="collapsible__content">
           <ul class="list">
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Bodenbearbeitung">Bodenbearbeitung</a></li>
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Aussaat">Aussaat</a></li>
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Ausbringung von Gülle">Ausbringung von Gülle</a></li>
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Ausbringung von Mist und Kompost">Ausbringung von Mist<br>und Kompost</a></li>
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Grünlandpflege">Grünlandpflege</a></li>
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Mähen">Mähen</a></li>
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Schwaden">Schwaden</a></li>
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Häckselkette">Häckselkette</a></li>
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Pressen">Pressen</a></li>
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Grabenpflege">Grabenpflege</a></li>
-            <li><a href="landwirtschaftliche-lohnarbeiten.html#Mixen">Mixen</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Bodenbearbeitung">Bodenbearbeitung</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Aussaat">Aussaat</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Ausbringung von Gülle">Gülle</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Ausbringung von Mist und Kompost">Mist und Kompost</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Grünlandpflege">Grünlandpflege</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Mähen">Mähen</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Schwaden">Schwaden</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Häckselkette">Häckselkette</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Pressen">Pressen</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Grabenpflege">Grabenpflege</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Mixen">Mixen</a></li>
           </ul>
         </div>
       </section>
@@ -184,13 +184,13 @@ Wir arbeiten nicht nach dem Prinzip des billigsten Kompromisses, sondern liefern
             Futterhandel und Services
           </h2>
           <svg class="icon icon--white collapsible__chevron">
-            <use xlink:href="../images/sprite.svg#chevron"></use>
+            <use xlink:href="/images/sprite.svg#chevron"></use>
           </svg>
         </header>
         <div class="collapsible__content">
           <ul class="list">
-            <li><a href="../de/futterhandel-und-services.html#Futterhandel">Futterhandel</a></li>
-            <li><a href="../de/futterhandel-und-services.html#Versuchswesen">Versuchswesen</a></li>
+            <li><a href="/de/futterhandel-und-services#Futterhandel">Futterhandel</a></li>
+            <li><a href="/de/futterhandel-und-services#Versuchswesen">Versuchswesen</a></li>
           </ul>
         </div>
       </section>
@@ -198,16 +198,16 @@ Wir arbeiten nicht nach dem Prinzip des billigsten Kompromisses, sondern liefern
         <header class="collapsible__header">
           <h2 class="collapsible__heading footer__heading">Über Uns und sonstiges</h2>
           <svg class="icon icon--white collapsible__chevron">
-            <use xlink:href="../images/sprite.svg#chevron"></use>
+            <use xlink:href="/images/sprite.svg#chevron"></use>
           </svg>
         </header>
         <div class="collapsible__content">
           <ul class="list">
-            <li><a href="../de/über-uns.html#Unser Team">Unser Team</a></li>
-            <li><a href="../de/über-uns.html#Karriere">Karriere</a></li>
-            <li><a href="../de/kontakt.html">Kontakt</a></li>
-            <li><a href="../de/datenschutzerklärung.html">DSGVO</a></li>
-            <li><a href="../de/impressum.html">Impressum</a></li>
+            <li><a href="/de/über-uns#Unser Team">Unser Team</a></li>
+            <li><a href="/de/über-uns#Karriere">Karriere</a></li>
+            <li><a href="/de/kontakt">Kontakt</a></li>
+            <li><a href="/de/datenschutzerklärung">Datenschutz</a></li>
+            <li><a href="/de/impressum">Impressum</a></li>
           </ul>
         </div>
       </section>
