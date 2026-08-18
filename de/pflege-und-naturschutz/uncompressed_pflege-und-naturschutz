@@ -1,1 +1,254 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KL-TEAM | Pflege und Naturschutz</title>
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png">
+    <link rel="stylesheet" href="/css/normalize.css" />
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <header>
+<body>
+  <nav class="nav collapsible">
+    <a class="header__brand" href="../index.html"><img src="/images/KL-TEAM@svg.svg" alt="" /></a>
+    <svg class="icon icon--primary nav__toggler">
+      <use xlink:href="/images/sprite.svg#menu"></use>
+    </svg>
+    <ul class="list nav__list collapsible__content">
+      <li class="nav__item"><a href="/de/pflege-und-naturschutz#Mulchen">Mulchen</a></li>
+      <li class="nav__item"><a href="/de/pflege-und-naturschutz#Extensivmahd und Aushagerung">Extensivmahd</a></li>
+      <li class="nav__item"><a href="/de/pflege-und-naturschutz#Extensivmahd und Aushagerung">Aushagerung</a></li>      
+      <li class="nav__item"><a href="/de/pflege-und-naturschutz#Torfmoose">Torfmoose</a></li>
+      <li class="nav__item"><a href="/de/pflege-und-naturschutz#Gehölz- und Knickpflege und Biotopentwicklung">Gehölz- und Knickpflege</a></li>
+      <li class="nav__item"><a href="/de/pflege-und-naturschutz#Gehölz- und Knickpflege und Biotopentwicklung">Biotopentwicklung</a></li>
+      <li class="nav__item"><a href="/de/pflege-und-naturschutz#Landschaftspflege">Landschaftspflege</a></li>
+    </ul>
+  </nav>
+  </header>
+  
+<section class="top">
+<div class="block__header">
+      <h2>Pflege und Naturschutz</h2>
+      <p>
+        Der zeitgemäße Naturschutz erfordert immer häufiger die angepasste Pflege von ehemaligen landwirtschaftlichen Flächen. 
+        <br>
+        Mit viel Erfahrung und Fingerspitzengefühl sind wir sicher auf vernässten Mooren unterwegs.
+        <br><br>
+        Selbstverständlich bieten wir unsere Dienstleistungen im kommunalen Rahmen an und pflegen Wegränder sowie Brachflächen.
+      </p>
+</div>
+</section>
+  
+<section class="top">
+<div class="block__header">
+      <h2>Fachgerechte Pflege von Naturschutzflächen <br> – Zuverlässig, qualifiziert und termintreu</h2>
+      <p>
+        Als spezialisiertes Fachunternehmen unterstützen wir Kommunen, Behörden und Verbände bei der professionellen Pflege und 
+        <br>
+        Erhaltung ökologisch wertvoller Flächen. Wir verstehen die hohen Anforderungen öffentlicher Auftraggeber: Bei uns stehen 
+        <br>
+        die punktgenaue Umsetzung von Leistungsverzeichnissen, absolute Termintreue und höchste Ausführungsqualität an erster Stelle.
+        <br>
+        Mit modernster, bodenschonender Technik und geschultem Personal setzen wir landschaftspflegerische Maßnahmen effizient und 
+        <br>
+        naturschutzkonform um – von der FFH-Mähgutabfuhr bis zur Gehölzpflege.
+        <br><br>
+        Unsere Garantien für öffentliche Auftraggeber:
+        <br>
+        <br>•	Termin- und Fristtreue: Pünktliche Ausführung innerhalb der vorgegebenen Zeitfenster (z.B. unter Berücksichtigung von Brut- und Setzzeiten).
+        <br>•	Ausführungsqualität: Exakte Einhaltung der Vorgaben aus Leistungsverzeichnissen und Pflegeseitenerklärungen.
+        <br>•	Saubere Dokumentation: Transparent nachvollziehbare Arbeitsnachweise für Ihre Unterlagen.
+        <br>•	Moderner Fuhrpark: Einsatz angepasster Spezialtechnik zur Vermeidung von Flurschäden.
+      </p>
+</div>
+</section>
+  
+<section class="Kommunale Dienstleistungen">
+<article class="grid grid--1x2 feature">
+<div class="feature__content">
+        </span>
+        <h3 id="Mulchen" class="feature__heading">Mulchen</h3>
+        <p> Mit großvolumiger Doppelbereifung Mulchen und Mähen wir 
+          <br>
+          dort, wo der Natur unter die Arme gegriffen werden muss.
+        </p>
+      </div>
+      <div>
+        <picture>
+          <source
+            type="image/webp"
+            srcset="/images/Mulchen.webp"
+          />
+          <img class="feature__image" src="/images/Mulchen.webp" alt="" />
+        </picture>
+</div>
+</article>
 
+<section class="top">
+<div class="block__header">
+      <h2 id="Extensivmahd und Aushagerung">Extensivmahd und Aushagerung <br> von Naturschutzgrünland</h2>
+      <p>
+        Die Pflege von FFH-Grünland, Feuchtwiesen und Kompensationsflächen erfordert Spezialwissen und die passende Logistik. 
+        <br>
+        Wir übernehmen die fachgerechte Staffelmähung sowie das Mähgutmanagement gemäß Ihren naturschutzfachlichen Vorgaben.
+        <br>
+        <br>•	Feuchtwiesen- und Moorpflege: Einsatz bodenschonender Technik mit breiter Bereifung zur Minimierung von Verdichtungen.
+        <br>•	Mähgutabfuhr und Aushagerung: Vollständige Aufnahme und ordnungsgemäße Verwertung des Aufwuchses zur Nährstoffreduktion.
+        <br>•	Einsatz verschiedener Mäh- und Mulchverfahren: Unerwarteten Hindernissen oder Wetterumschwüngen passen wir unsere 
+        <br> Arbeitsweise an.
+      </p>
+</div>
+</section>
+    
+<article class="grid grid--1x2 feature">
+<div class="feature__content">
+</span>
+        <h3 id="Torfmoose" class="feature__heading">Torfmoose</h3>
+        <p> Mit unseren robusten Ladewagen können wir den Aufwuchs 
+          <br>
+          einsammeln und abfahren, um den Flächen langfristig 
+          <br>
+          Nährstoffe zu entziehen und somit die ursprüngliche 
+          <br>
+          Vegetation zu fördern. 
+          <br><br>
+          Wertvolle Lebensräume, wie bspw. Torfmoose, werden
+          <br> 
+          dabei geschont und durch unsere Arbeit gefördert.
+        </p>
+      </div>
+      <div>
+        <picture>
+          <source
+            type="image/webp"
+            srcset="/images/Torfmoose.webp"
+          />
+          <img class="feature__image" src="/images/Torfmoose.webp" alt="" />
+        </picture>
+  </div>
+  </article>
+  </section>
+
+<article class="grid grid--1x2 feature">
+              <div class="feature__content">
+                <h3 id="Gehölz- und Knickpflege und Biotopentwicklung" class="feature__heading">Gehölzpflege, Knickpflege und <br> Biotopentwicklung</h3>
+            <p>
+        Ob Lichtraumprofilschnitt, Entkusselung von Heide- und <br> Moorflächen oder die Pflege von Feldgehölzen: 
+        <br> Wir führen alle Arbeiten gemäß den Bestimmungen des <br> Bundesnaturschutzgesetzes (BNatSchG) durch.
+        <br>
+        <br>•	Entkusselungsmaßnahmen: Selektiver Rückschnitt von <br> Gehölzen zur Erhaltung offener Biotope.
+        <br>•	Knick- und Heckenschnitt: Fachgerechter Rückschnitt zur <br> Pflege historischer Kulturlandschaften und Wegeseitenräume.
+        <br>•	Wertstoffmanagement: Hackerarbeitung und Abtransport <br> des Schnittguts direkt vor Ort.
+      </p>
+              </div>
+              <div class="video__container">
+                <iframe src="https://www.youtube.com/embed/spUHWu-3RV0" title="KL-TEAM | Grabenfräsen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              </div>
+              </article>
+
+<section class="top">
+<div class="block__header">
+      <h2 id="Landschaftspflege">Ihr verlässlicher Partner in der Landschaftspflege</h2>
+      <p>
+        Öffentliche Ausschreibungen und Direktvergaben erfordern Partner, auf die Verlass ist. Unser Betrieb zeichnet sich durch kurze 
+        <br>Kommunikationswege, feste Ansprechpartner und ein tiefes Verständnis für die behördlichen Abläufe aus.
+        <br> Wir arbeiten nicht nach dem Prinzip des billigsten Kompromisses, sondern liefern Ergebnisse, die der behördlichen Abnahme ohne 
+        <br> Nacharbeit standhalten. Von der Erstbesichtigung bis zum finalen Abnahme-Protokoll bieten wir Ihnen volle Planungssicherheit. 
+      </p>
+</div>
+</section>
+  
+<footer class="block block--dark footer">
+    <div class="container grid footer__sections">
+      <section class="collapsible collapsible--expanded footer__section">
+        <header class="collapsible__header">
+          <h2 class="collapsible__heading footer__heading">
+            Pflege und Naturschutz
+          </h2>
+          <svg class="icon icon--white collapsible__chevron">
+            <use xlink:href="/images/sprite.svg#chevron"></use>
+          </svg>
+        </header>
+        <div class="collapsible__content">
+          <ul class="list">
+            <li><a href="/de/pflege-und-naturschutz#Mulchen">Mulchen</a></li>
+            <li><a href="/de/pflege-und-naturschutz#Extensivmahd und Aushagerung">Extensivmahd</a></li>
+            <li><a href="/de/pflege-und-naturschutz#Extensivmahd und Aushagerung">Aushagerung</a></li>
+            <li><a href="/de/pflege-und-naturschutz#Torfmoose">Torfmoose</a></li>
+            <li><a href="/de/pflege-und-naturschutz#Gehölz- und Knickpflege und Biotopentwicklung">Gehölz- und Knickpflege</a></li>
+            <li><a href="/de/pflege-und-naturschutz#Gehölz- und Knickpflege und Biotopentwicklung">Biotopentwicklung</a></li>
+            <li><a href="/de/pflege-und-naturschutz#Landschaftspflege">Landschaftspflege</a></li>
+          </ul>
+        </div>
+      </section>
+      <section class="collapsible footer__section">
+        <header class="collapsible__header">
+          <h2 class="collapsible__heading footer__heading">
+            Landwirtschaftliche <br> Lohnarbeiten
+          </h2>
+          <svg class="icon icon--white collapsible__chevron">
+            <use xlink:href="/images/sprite.svg#chevron"></use>
+          </svg>
+        </header>
+        <div class="collapsible__content">
+          <ul class="list">
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Bodenbearbeitung">Bodenbearbeitung</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Aussaat">Aussaat</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Ausbringung von Gülle">Gülle</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Ausbringung von Mist und Kompost">Mist und Kompost</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Grünlandpflege">Grünlandpflege</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Mähen">Mähen</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Schwaden">Schwaden</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Häckselkette">Häckselkette</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Pressen">Pressen</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Grabenpflege">Grabenpflege</a></li>
+            <li><a href="/de/landwirtschaftliche-lohnarbeiten#Mixen">Mixen</a></li>
+          </ul>
+        </div>
+      </section>
+      <section class="collapsible footer__section">
+        <header class="collapsible__header">
+          <h2 class="collapsible__heading footer__heading">
+            Futterhandel und Services
+          </h2>
+          <svg class="icon icon--white collapsible__chevron">
+            <use xlink:href="/images/sprite.svg#chevron"></use>
+          </svg>
+        </header>
+        <div class="collapsible__content">
+          <ul class="list">
+            <li><a href="/de/futterhandel-und-services#Futterhandel">Futterhandel</a></li>
+            <li><a href="/de/futterhandel-und-services#Versuchswesen">Versuchswesen</a></li>
+          </ul>
+        </div>
+      </section>
+      <section class="collapsible footer__section">
+        <header class="collapsible__header">
+          <h2 class="collapsible__heading footer__heading">Über Uns und sonstiges</h2>
+          <svg class="icon icon--white collapsible__chevron">
+            <use xlink:href="/images/sprite.svg#chevron"></use>
+          </svg>
+        </header>
+        <div class="collapsible__content">
+          <ul class="list">
+            <li><a href="/de/über-uns#Unser Team">Unser Team</a></li>
+            <li><a href="/de/über-uns#Karriere">Karriere</a></li>
+            <li><a href="/de/kontakt">Kontakt</a></li>
+            <li><a href="/de/datenschutzerklärung">Datenschutz</a></li>
+            <li><a href="/de/impressum">Impressum</a></li>
+          </ul>
+        </div>
+      </section>
+      <section class="footer__brand">
+        <a class="footer__brand" href="/index.html"
+          ><img src="/images/KL-TEAM_2.svg" alt=""
+        /></a>
+        <p class="footer__copyright"><br />Copyright© 2025<br />KL-TEAM</p>
+      </section>
+    </div>
+  </footer>
+  
+    <script src="/js/main.js"></script>
+  </body>
+</html>
