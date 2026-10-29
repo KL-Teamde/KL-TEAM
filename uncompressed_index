@@ -45,7 +45,7 @@
         <div class="plan">
           <div class="card card--primary">
             <header class="card__header">
-              <h3 class="plan__name">Futterhandel und Services</h3>
+              <h3 class="plan__name">Winterdienst und Services</h3>
             </header>
             <div class="card__body card__body--tertiary" href="de/futterhandel-und-services">
               <a class="btn btn--outline btn--block" href="de/futterhandel-und-services"
@@ -126,8 +126,9 @@ Du suchst einen abwechslungsreichen Job oder einen Ausbildungsplatz?
         </header>
         <div class="collapsible__content">
           <ul class="list">
-            <li><a href="de/futterhandel-und-services#Futterhandel">Futterhandel</a></li>
-            <li><a href="de/futterhandel-und-services#Versuchswesen">Versuchswesen</a></li>
+            <li><a href="de/winterdienst-und-services#Winterdienst">Winterdienst</a></li>
+            <li><a href="de/winterdienst-und-services#Futterhandel">Futterhandel</a></li>
+            <li><a href="de/winterdienst-und-services#Versuchswesen">Versuchswesen</a></li>
           </ul>
         </div>
       </section>
