@@ -111,8 +111,9 @@
         </header>
         <div class="collapsible__content">
           <ul class="list">
-            <li><a href="/de/futterhandel-und-services#Futterhandel">Futterhandel</a></li>
-            <li><a href="/de/futterhandel-und-services#Versuchswesen">Versuchswesen</a></li>
+            <li><a href="de/winterdienst-und-services#Winterdienst">Winterdienst</a></li>
+            <li><a href="de/winterdienst-und-services#Futterhandel">Futterhandel</a></li>
+            <li><a href="de/winterdienst-und-services#Versuchswesen">Versuchswesen</a></li>
           </ul>
         </div>
       </section>
