@@ -31,7 +31,36 @@
       </p>
     </div>
   </section>
- 
+
+  <article class="grid grid--1x2 feature">
+      <div class="feature__content">
+        </span>
+        <h3 id="Winterdienst class="feature__heading">Winterdienst</h3>
+        <p>
+          Sie suchen einen verlässlichen Partner für den kommenden Winter?
+          <br><br>
+          Wir übernehmen den professionellen Winterdienst für Ihre
+          <br>
+          Gewerbebetriebe, Hausverwaltungen oder Mietimmobilien.
+          <br> 
+          Setzen Sie auf Sicherheit und Barrierefreiheit für Ihre Kunden,
+          <br>
+          Mieter und Mitarbeiter!
+          <br><br>
+          Jetzt unverbindlich anfragen und Winterdienst-Kapazitäten sichern!
+        </p>
+      </div>
+      <div>
+        <picture>
+          <source
+            type="image/png"
+            srcset="/images/Winterdienst_compressed.png"
+          />
+          <img class="feature__image" src="/images/Winterdienst_compressed.png" alt="" />
+        </picture>
+      </div>
+      </article>
+
   <section class="Handel und Services">
     <article class="grid grid--1x2 feature">
       <div class="feature__content">
