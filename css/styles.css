@@ -391,7 +391,7 @@ a {
 }
 
 .card__body--tertiary {
-  background: url(../images/Futterhandel.webp.webp);
+  background: url(../images/Winterdienst_compressed.png);
   background-size: cover;
 }
 
@@ -434,7 +434,7 @@ a {
   }
   
   .card__body--tertiary {
-    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/Futterhandel.webp.webp);
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(../images/Winterdienst_compressed.png);
     background-size: cover;
   }
 
@@ -449,7 +449,7 @@ a {
   }
   
   .card__body--tertiary:hover {
-    background: url(../images/Futterhandel.webp.webp);
+    background: url(../images/Winterdienst_compressed.png);
     background-size: cover;
   }
 }
